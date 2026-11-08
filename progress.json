@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:30:34.478Z",
+  "generated_at": "2026-11-08T06:31:38.533Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -239,6 +239,17 @@
       "last_pushed_at": "2026-11-08T06:30:33.656Z",
       "language": "python",
       "lines": 13
+    },
+    "math:11": {
+      "kind": "math",
+      "id": "11",
+      "title": "Determinants and Trace",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/11",
+      "path": "math/0011-determinants-and-trace",
+      "first_solved_at": "2026-11-08T06:31:37.729Z",
+      "last_pushed_at": "2026-11-08T06:31:37.729Z"
     }
   }
 }
