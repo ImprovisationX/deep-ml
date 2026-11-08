@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:04:59.818Z",
+  "generated_at": "2026-11-08T06:06:38.695Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -185,6 +185,19 @@
       "path": "problems/0035-convert-vector-to-diagonal-matrix",
       "first_solved_at": "2026-11-08T06:04:58.907Z",
       "last_pushed_at": "2026-11-08T06:04:58.907Z",
+      "language": "python",
+      "lines": 8
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-08T06:06:37.698Z",
+      "last_pushed_at": "2026-11-08T06:06:37.698Z",
       "language": "python",
       "lines": 8
     }
