@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T05:23:31.081Z",
+  "generated_at": "2026-11-08T05:28:23.649Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -59,6 +59,19 @@
       "path": "problems/0118-compute-the-cross-product-of-two-3d-vectors",
       "first_solved_at": "2026-11-08T05:23:29.685Z",
       "last_pushed_at": "2026-11-08T05:23:29.685Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-11-08T05:28:22.882Z",
+      "last_pushed_at": "2026-11-08T05:28:22.882Z",
       "language": "python",
       "lines": 5
     }
