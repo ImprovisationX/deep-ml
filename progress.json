@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T06:50:14.002Z",
+  "generated_at": "2026-11-08T06:51:46.005Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -261,6 +261,17 @@
       "path": "math/0012-inverse-and-rank",
       "first_solved_at": "2026-11-08T06:50:13.197Z",
       "last_pushed_at": "2026-11-08T06:50:13.197Z"
+    },
+    "math:46": {
+      "kind": "math",
+      "id": "46",
+      "title": "The Four Fundamental Subspaces",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/46",
+      "path": "math/0046-the-four-fundamental-subspaces",
+      "first_solved_at": "2026-11-08T06:51:45.128Z",
+      "last_pushed_at": "2026-11-08T06:51:45.128Z"
     }
   }
 }
