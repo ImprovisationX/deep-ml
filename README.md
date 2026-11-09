@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 27 problems · 0 labs · 8 math
+**36** solved · 28 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Solve Linear Equations using Jacobi Method](https://www.deep-ml.com/problems/11) | medium | 2026-11-09 | [solution](problems/0011-solve-linear-equations-using-jacobi-method) |
 | [Solve System of Linear Equations Using Cramer's Rule](https://www.deep-ml.com/problems/119) | medium | 2026-11-09 | [solution](problems/0119-solve-system-of-linear-equations-using-cramer-s-rule) |
 | [Determinant of a 4x4 Matrix using Laplace's Expansion (hard)](https://www.deep-ml.com/problems/13) | hard | 2026-11-08 | [solution](problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard) |
+| [Implement the Conjugate Gradient Method for Solving Linear Systems](https://www.deep-ml.com/problems/63) | hard | 2026-11-09 | [solution](problems/0063-implement-the-conjugate-gradient-method-for-solving-linear-systems) |
 
 ## Math
 
