@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T00:33:58.570Z",
+  "generated_at": "2026-11-11T06:12:17.481Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -546,6 +546,19 @@
       "path": "math/0015-matrix-decompositions-lu-and-qr",
       "first_solved_at": "2026-11-11T00:33:57.324Z",
       "last_pushed_at": "2026-11-11T00:33:57.324Z"
+    },
+    "lab:18": {
+      "kind": "lab",
+      "id": "18",
+      "title": "Train a Linear Regression Model",
+      "difficulty": "easy",
+      "category": "Regression",
+      "url": "https://www.deep-ml.com/labs/18",
+      "path": "labs/0018-train-a-linear-regression-model",
+      "first_solved_at": "2026-11-11T06:12:15.848Z",
+      "last_pushed_at": "2026-11-11T06:12:15.848Z",
+      "language": "python",
+      "lines": 41
     }
   }
 }
