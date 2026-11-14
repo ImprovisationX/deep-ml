@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T14:39:54.501Z",
+  "generated_at": "2026-11-14T15:03:29.069Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -731,6 +731,19 @@
       "path": "problems/0312-quotient-rule-for-derivatives",
       "first_solved_at": "2026-11-14T14:39:53.541Z",
       "last_pushed_at": "2026-11-14T14:39:53.541Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:308": {
+      "kind": "problem",
+      "id": "308",
+      "title": "Gradient Direction and Magnitude",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/308",
+      "path": "problems/0308-gradient-direction-and-magnitude",
+      "first_solved_at": "2026-11-14T15:03:27.808Z",
+      "last_pushed_at": "2026-11-14T15:03:27.808Z",
       "language": "python",
       "lines": 18
     }
