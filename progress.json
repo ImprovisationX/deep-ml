@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T13:59:48.125Z",
+  "generated_at": "2026-11-14T14:02:47.548Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -644,6 +644,19 @@
       "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
       "first_solved_at": "2026-11-14T13:59:46.831Z",
       "last_pushed_at": "2026-11-14T13:59:46.831Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-11-14T14:02:46.284Z",
+      "last_pushed_at": "2026-11-14T14:02:46.284Z",
       "language": "python",
       "lines": 6
     }
