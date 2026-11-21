@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**66** solved · 45 problems · 1 labs · 20 math
+**67** solved · 46 problems · 1 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Check if Matrix is Positive Definite](https://www.deep-ml.com/problems/332) | medium | 2026-11-13 | [solution](problems/0332-check-if-matrix-is-positive-definite) |
 | [Cholesky Decomposition](https://www.deep-ml.com/problems/334) | medium | 2026-11-13 | [solution](problems/0334-cholesky-decomposition) |
 | [Compute Orthonormal Basis for 2D Vectors](https://www.deep-ml.com/problems/117) | medium | 2026-11-10 | [solution](problems/0117-compute-orthonormal-basis-for-2d-vectors) |
+| [Compute the Hessian Matrix](https://www.deep-ml.com/problems/218) | medium | 2026-11-21 | [solution](problems/0218-compute-the-hessian-matrix) |
 | [Compute the Null Space (Kernel) of a Matrix](https://www.deep-ml.com/problems/330) | medium | 2026-11-08 | [solution](problems/0330-compute-the-null-space-kernel-of-a-matrix) |
 | [Find the column space of a matrix](https://www.deep-ml.com/problems/68) | medium | 2026-11-08 | [solution](problems/0068-find-the-column-space-of-a-matrix) |
 | [Gauss-Seidel Method for Solving Linear Systems](https://www.deep-ml.com/problems/57) | medium | 2026-11-09 | [solution](problems/0057-gauss-seidel-method-for-solving-linear-systems) |
